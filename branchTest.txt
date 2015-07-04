@@ -1,5 +1,4 @@
-conflict test
+resolve conflict
 
 modify on master
 
-GUI comment
